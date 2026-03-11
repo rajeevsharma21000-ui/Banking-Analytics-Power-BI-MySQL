@@ -53,23 +53,22 @@ This project demonstrates end-to-end data analytics including database design, d
 ## Power BI Dashboard Screenshots
 
 ### Executive Dashboard
-![Executive Dashboard](Screenshots/1_Executive_Dashboard.png)
+![Executive Dashboard](Screenshots/1%20Executive_Dashboard.png)
 
 ### Customers Dashboard
-![Customers Dashboard](Screenshots/2_Customers_Dashboard.png)
+![Customers Dashboard](Screenshots/2%20Customers_Dashboard.png)
 
 ### Account Dashboard
-![Account Dashboard](Screenshots/3_Account_Dashboard.png)
+![Account Dashboard](Screenshots/3%20Account_Dashboard.png)
 
 ### Transaction Dashboard
-![Transaction Dashboard](Screenshots/4_Transaction_Dashboard.png)
+![Transaction Dashboard](Screenshots/4%20Transaction_Dashboard.png)
 
 ### Loan Dashboard
-![Loan Dashboard](Screenshots/5_Loan_Dashboard.png)
+![Loan Dashboard](Screenshots/5%20Loan_Dashboard.png)
 
 ### Cards Dashboard
-![Cards Dashboard](Screenshots/6_Cards_Dashboard.png)
+![Cards Dashboard](Screenshots/6%20Cards_Dashboard.png)
 
 ### Complaints Dashboard
-![Complaints Dashboard](Screenshots/7_Complaints_Dashboard.png)
-
+![Complaints Dashboard](Screenshots/7%20Complaints_Dashboard.png)
