@@ -59,7 +59,7 @@ This project demonstrates end-to-end data analytics including database design, d
 ![Customers Dashboard](Screenshots/Customers_Dashbord.png)
 
 ### Account Dashboard
-![Account Dashboard](Screenshots/Account_Dashboard.png)
+![Account Dashboard](Screenshots/Account_Dashbord.png)
 
 ### Transaction Dashboard
 ![Transaction Dashboard](Screenshots/Transaction_Dashboard.png)
