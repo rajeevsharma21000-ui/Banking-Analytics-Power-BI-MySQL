@@ -48,3 +48,7 @@ Advanced SQL queries were used to calculate key banking KPIs including:
 ## Project Outcome
 
 This project demonstrates end-to-end data analytics including database design, data validation, advanced SQL analysis, and interactive dashboard development.
+
+## Dashboard Preview
+
+
